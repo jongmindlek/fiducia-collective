@@ -1,1 +1,2 @@
 # fiducia-collective
+.
