@@ -1,9 +1,0 @@
-Cloudflare build settings
-
-Root directory: /
-Build command: npx vinext build
-Deploy command: npx wrangler deploy --config dist/server/wrangler.json
-Production branch: main
-
-Upload the contents of this folder directly to the root of the GitHub repository.
-The GitHub repository front page should show package.json, app, public, and vite.config.ts.
